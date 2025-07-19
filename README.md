@@ -2,9 +2,8 @@
 - 👀 I’m interested in ("AI power how burtal it can go")
 - 🌱 I’m currently learning ("Researching on AI")
 - 💞️ I’m looking to collaborate on  ("Startup Compnay")
-- 📫 Reach me on instagram ("aaditvin_07")
-- 😄 Pronouns: ("HE")
-- ⚡ Fun fact: I M BATMAN
+- 😄 Pronouns: ("HE/HIM")
+
 
 <!---
 aadit-agrwall/aadit-agrwall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
